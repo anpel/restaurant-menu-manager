@@ -40,7 +40,7 @@ pressure.
 
 At the current time only God knows why I chose to load all data with AJAX.
 
-My best guest would be that I ran into some issues with bootstrap table and I
+My best guess would be that I ran into some issues with bootstrap table and I
 went with the fastest route to get it running.
 
 

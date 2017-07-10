@@ -7,8 +7,11 @@ About
 A restaurant owner once asked me for a quick way to update the daily plates
 and print the menu with the new ones in 3 languages.
 
-You can edit plates inline, reorder the category appearance position and make
-plates unavailable for the day.
+With this small application you can edit plates inline, reorder the category
+appearance position and make plates unavailable for the day.
+
+It also creates a printable version of the avaialable plates so you can print
+them easily.
 
 
 Requirements
@@ -24,7 +27,7 @@ Installation
 -----------
 
 - Copy the files to your server
-- Create a database named 'restaurant_manager' and import the schema
+- Create a database named `restaurant_manager` and import the schema
 - Change the credentials in `includes/database.php`.
 - If the server is on the internet, password protect the directory.
 

@@ -1,0 +1,4 @@
+AuthUserFile "/home/labyrint/.htpasswds/public_html/app/passwd"
+AuthName "app"
+AuthType Basic
+require valid-user

@@ -47,5 +47,5 @@ went with the fastest route to get it running.
 License
 -------
 
-This software is licensed under the [GPL v3 license][gpl].
+This software is licensed under the [GPL v3 license](http://www.gnu.org/copyleft/gpl.html).
 © 2017 Andreas Pelekoudas
